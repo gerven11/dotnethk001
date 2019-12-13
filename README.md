@@ -1,4 +1,4 @@
-# dotnethk001
+# 練習 ASP․NET Core Web API 與 Entity Framework Core 整合開發
 
 #請以 ContosoUniversity 資料庫為主要資料來源
 
